@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/EdielOliveira/Sistemas?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/EdielOliveira/AtrativosCidade?style=for-the-badge)
 <img src="http://img.shields.io/static/v1?label=&message=%20CSS&color=563D7C&style=for-the-badge">
 <img src="http://img.shields.io/static/v1?label=&message=%20HTML&color=E34C26&style=for-the-badge">
 <img src="http://img.shields.io/static/v1?label=PLATAFORMA&message=%20VSCODE&color=007EC6&style=for-the-badge">
