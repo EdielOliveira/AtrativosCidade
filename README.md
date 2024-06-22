@@ -20,11 +20,10 @@
   
 ## Índice
   
-- [Abrindo o Codigo](#abrindo-o-codigo)
+- [Abrindo o Codigo](#-abrindo-o-codigo)
 - [Visão Geral](#visão-geral)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Como Usar](#como-usar)
-- [Desenvolvedor](#desenvolvedor)
+- [Estrutura do Projeto](#-estrutura-do-projeto)
+- [Desenvolvedor](#-desenvolvedor)
 
 <h1 align="center">
 🚀 Abrindo o Codigo
