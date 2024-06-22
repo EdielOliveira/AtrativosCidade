@@ -1,0 +1,52 @@
+h2, h1, h3, a{
+    color: #000000;
+    text-align: center;
+}
+body{
+    background: #E9DDCE;
+}
+p{
+    text-align: left;
+    color: #000000;
+}
+.container{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 1.5rem ;
+    width: 100%;
+    padding: 20px;
+    
+}
+.bloco1, .bloco2, .bloco3, .bloco4, .bloco5, .bloco6{
+    width: 100%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+}
+.item_1, .item_2, .item_3, .item_4, .item_5, .item_6{
+    width: 100%;
+}
+i{
+    font-size: 20px;
+}
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+.desc{
+    width: 100%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    
+}
+    
