@@ -50,6 +50,8 @@ Atrativos Turísticos - Carapicuíba
 
 Este repositório contém uma página web que destaca diversos atrativos turísticos na cidade de Carapicuíba, São Paulo, Brasil. A página é informativa e visualmente atraente, oferecendo detalhes sobre cada local, incluindo imagens, descrições e informações úteis como localização e horários de funcionamento.
 
+<img width=100% src="https://github.com/EdielOliveira/AtrativosCidade/assets/113260177/3d43c199-8271-47f3-9f40-e8a207089c27"/>
+
 <h1 align="center">
 Visão Geral
 </h1>
